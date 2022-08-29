@@ -25,3 +25,5 @@ comando. Qual é esse comando?
 de um outro branch ao seu branch ativo? 
 checkout e o nome da branch
 
+9 Qual a diferença entre git e github?
+O github tem um apoio de interface ja o git é apenas o cmd
