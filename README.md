@@ -8,3 +8,7 @@ A Metodologia Scrum é considerada um método ágil. Trata-se de um framework no
 
 3 O que é um scrum Product Owner?
 Product Owner é o guardião do processo. Ele coordena as necessidades do cliente às partes interessadas, tomando decisões de forma a garantir o máximo valor a um baixo custo
+
+4 O que é Git?
+Sistema de COMMIT
+
