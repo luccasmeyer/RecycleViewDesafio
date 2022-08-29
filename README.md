@@ -12,3 +12,5 @@ Product Owner é o guardião do processo. Ele coordena as necessidades do client
 4 O que é Git?
 Sistema de COMMIT
 
+5 Qual o comando para criação de um novo repositório no Git?
+Git INIT
