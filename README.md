@@ -17,3 +17,7 @@ Git INIT
 
 6 Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um
 comando. Qual é esse comando? 
+
+7 O que é a Branch master e para que serve?
+É a partição principal do GIT onde os commits são enviados
+
