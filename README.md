@@ -27,3 +27,7 @@ checkout e o nome da branch
 
 9 Qual a diferença entre git e github?
 O github tem um apoio de interface ja o git é apenas o cmd
+
+10 Conta pra gente como foi sua experiência na Sprint#02 do programa de bolsa
+@Android e quais suas expectativas a partir de agora:
+Foi bem desgastante, porque além dos cursos eu pesquisei muitas coisas por fora, mas foi uma expêriencia gratificante no final, vendo tudo funcionando
