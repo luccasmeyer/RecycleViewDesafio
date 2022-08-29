@@ -21,3 +21,7 @@ comando. Qual é esse comando?
 7 O que é a Branch master e para que serve?
 É a partição principal do GIT onde os commits são enviados
 
+8 Quais são os comandos usados para atualizar um repositório local e fazer merge
+de um outro branch ao seu branch ativo? 
+checkout e o nome da branch
+
